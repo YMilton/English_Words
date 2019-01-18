@@ -1,1 +1,4 @@
 ﻿evacuate  撤走
+immediately 立即，马上
+pact 协议
+specification  规格，说明书
