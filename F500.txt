@@ -1,4 +1,27 @@
-﻿evacuate  撤走
-immediately 立即，马上
-pact 协议
-specification  规格，说明书
+﻿1. evacuate  撤走
+
+2. immediately 立即，马上
+
+3. pact 协议
+
+4. specification  规格，说明书
+
+5. shorthand  速记
+
+6. scenarios 情节，脚本
+
+7. investigate 调查，探讨
+
+8. synthesize 合成，综合
+
+9. vibration 震动，抖动
+
+10. reliability 可靠性
+
+11. competition 比赛，竞赛
+
+12. accelerated 加速的，加快的
+
+13. degradation 退化，降级
+
+14. 
