@@ -57,3 +57,53 @@
 29. parallelism 相似，平行性
 
 30. agnostic 不可知论者
+
+31. hierarchy 等级制度，层次体系
+
+32. renowned 著名的
+
+33. conjunction 结合，连词
+
+34. discriminatively 有区别，有歧视性
+
+35. penalize 惩罚，处罚
+
+36. stochastic 随机的，随机性
+
+37. regressor 回归函数，回归元
+
+38. candidates 候选人，被认定为合适的人
+
+39. intuition 直觉
+
+40. universality 普遍性，一般性
+
+41. theorem 定理
+
+42. continuous 不断的，连续的
+
+43. analogy 类比，类推
+
+44. modularization 模块化
+
+45. sufficient 足够的，充足的
+
+46. flexible 灵活的，可变动的，有弹性的
+
+47. recipe	 秘诀
+
+48. momentum 推动力，动力，势头
+
+49. proper 正确的，	恰当的
+
+50. intuitive 直观的，易懂的
+
+51. vanishing 消失
+
+52. variant 变体
+
+53. piecewise 分段的
+
+54. decay 衰退
+
+55. bidirectional 双向的
