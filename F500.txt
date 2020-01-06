@@ -107,3 +107,5 @@
 54. decay 衰退
 
 55. bidirectional 双向的
+
+56. perturb 扰动
